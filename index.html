@@ -6,7 +6,7 @@
     <title>Redirect</title>
     <script>
         document.addEventListener("DOMContentLoaded", function () {
-            document.getElementById("message").textContent = "Redirecting to demo (/active)...";
+            document.getElementById("message").textContent = "Redirecting...";
 
             setTimeout(function () {
                 window.location.href = "/active";
@@ -16,5 +16,7 @@
 </head>
 <body>
     <h1 id="message">Redirecting...</h1>
+      <h1>Redirecting...</h1>
+  <p>If you have not been redirected, <a href="active/">Click Me</a>.</p>
 </body>
 </html>
