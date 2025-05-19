@@ -1,6 +1,6 @@
 # ![UV Static v2 logp](https://github.com/rhenryw/UV-Static-2.0/blob/31bfc6dab574b4f49a95eb97f675bac7984520fc/active/logo.png)
 # Static-Zero [PROXY]
-UV-Static... But WISP and Tabbed!
+A Moddified Version of UV-Static 2!
 </br>
 </br>
 [![Join Our Discord](https://img.shields.io/badge/Join%20Our-Discord-purple)](https://discord.gg/redlv) [![maintenance-status](https://img.shields.io/badge/maintenance-passively--maintained-yellowgreen.svg)](https://github.com/rhenryw/UV-Static-2.0/commits/main/)
