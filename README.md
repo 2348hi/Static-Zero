@@ -1,4 +1,4 @@
-# ![UV Static v2 logp](https://github.com/2348hi/Static-Zero-PROXY/blob/main/active/Static-Zero.png)
+# ![Static-Zero LOGO](https://github.com/2348hi/Static-Zero-PROXY/blob/main/active/Static-Zero.png)
 # Static-Zero [PROXY]
 A Moddified Version of UV-Static 2!
 </br>
