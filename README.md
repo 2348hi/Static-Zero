@@ -5,25 +5,13 @@ A Moddified Version of UV-Static 2!
 </br>
 [![maintenance-status](https://img.shields.io/badge/maintenance-passively--maintained-yellowgreen.svg)](https://github.com/rhenryw/UV-Static-2.0/commits/main/)
 
-This is a succesor to [UV-Static](https://github.com/rhenryw/UV-Static)
+This is a succesor to [UV-Static](https://github.com/rhenryw/UV-Static) But Modified!
 
-This uses WISP technology
 
-How to use:
+Features & Changes:
 ---
-1. Run
-```bash
-git clone https://github.com/rhenryw/UV-Static-2.0
-```
-  or click the top corner at hit "code" then download zip
-  
-2. Either `cd` into the directory if you used the first option or unzip the zip file
 
-3. If you used `cd` use `mv` to move it to the directory of where your source code is or go into the unzipped file then drag the folder `active` into your source code at `/`
-
-4. Done! You will be able to access the proxy at `/active`. If you change the location of the folder or change the name of the folder you will also have to modify `active/uv/uv.config.js` and `active/scripts/prxy.mjs`. You can change the styles and app at will!
-
-## or use the buttons below
+## Self Deployment:
 
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/rhenryw/UV-Static-2.0)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/rhenryw/UV-Static-2.0)
@@ -39,9 +27,10 @@ git clone https://github.com/rhenryw/UV-Static-2.0
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/rhenryw/UV-Static-2.0)
 
 
-Disclaimer
+Credits:
 ---
-UV is made by [Titanium Network](https://github.com/titaniumnetwork-dev/Ultraviolet), and we have no part in developing it. The backend was made by [Mercury Workshop](https://mercurywork.shop/).
+- [Titaniumnetwork](https://github.com/titaniumnetwork-dev/Ultraviolet) - Proxy Creators!
 
+- [deployWISP](https://github.com/rhenryw/deployWisp) - Backend Creators!
 
-Backend: [deployWISP](https://github.com/rhenryw/deployWisp)
+- [UV-Static 2](https://github.com/rhenryw/UV-Static-2.0) - Forked Git!
